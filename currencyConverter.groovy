@@ -34,11 +34,5 @@ while (!finished) {
 	  println "Sorry, that is not a valid option";
     }	  
 }
-<<<<<<< HEAD
-println "Exiting the program";
-=======
 println "Exiting the program";
 println "-------------------"
-# end
-
->>>>>>> fe203f6db9c6e73e90883bdf466fe988400d1399

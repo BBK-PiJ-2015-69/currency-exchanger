@@ -1,3 +1,4 @@
+# Initial comments
 print "If I give you £1, how many Euro will you give me? ";
 double euroOverPoundRatio = Double.parseDouble(System.console().readLine());
 print "If I give you 1€, how many Sterling pounds will you give me? ";
@@ -35,5 +36,5 @@ while (!finished) {
 }
 println "Exiting the program";
 println "-------------------"
-
+# end
 
